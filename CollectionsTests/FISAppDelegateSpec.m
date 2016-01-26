@@ -59,7 +59,9 @@ describe(@"FISAppDelegate", ^{
                        @"ox"     ,
                        @"axle"   ,
                        @"radius" ,
-                       @"trivium"];
+                       @"trivium",
+                       @"party",
+                       @"boy"];
         
         plurals = @[ @"hands" ,
                      @"feet"  ,
@@ -69,7 +71,9 @@ describe(@"FISAppDelegate", ^{
                      @"oxen"  ,
                      @"axles" ,
                      @"radii" ,
-                     @"trivia"];
+                     @"trivia",
+                     @"parties",
+                     @"boys"];
 
         
         moby = @"Call me Ishmael. Some years ago- never mind how long precisely- having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.";
